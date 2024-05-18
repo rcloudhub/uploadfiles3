@@ -1,0 +1,6 @@
+{
+    "require": {
+        "aws/aws-sdk-php": "^3.306",
+        "league/flysystem-ftp": "^3.0"
+    }
+}
